@@ -1,7 +1,7 @@
 Package: USgas
 Type: Package
 Title: The Demand for Natural Gas in the US
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: person(given = "Rami", 
                     family ="Krispin", 
                     email = "rami.krispin@gmail.com",
@@ -18,7 +18,7 @@ BugReports: https://github.com/RamiKrispin/USgas/issues
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-12-15 16:45:59 UTC; ramikrispin
+Packaged: 2021-05-26 11:42:32 UTC; ramikrispin
 Author: Rami Krispin [aut, cre]
 Repository: CRAN
-Date/Publication: 2020-12-17 09:00:23 UTC
+Date/Publication: 2021-05-26 13:10:09 UTC
